@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='$name$',
+    name='$packge_name;format="snake"$',
     version='$version$',
     author='$author$',
     author_email='$author_email$',
